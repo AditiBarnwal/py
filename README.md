@@ -1,0 +1,2 @@
+# py
+about simple query
