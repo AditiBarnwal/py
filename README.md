@@ -211,6 +211,8 @@ Or it may reside on the location you selected at the time of installation.</p>
 <p>Dot (.) operator can't be overloaded, so it will generate an error.</p>
 <h5>Q.Can you use switch case in Python?</h5>
 <p>From version 3.10 upwards, Python has implemented a switch case feature called “structural pattern matching”. You can implement this feature with the match and case keywords.</p>
+<h5>What does .format do in Python?</h5>
+<p>The format() method formats the specified value(s) and insert them inside the string's placeholder. The placeholder is defined using curly brackets: {}. Read more about the placeholders in the Placeholder section below. The format() method returns the formatted string.</p>
 <h5>Q.What are the two Limitation of switch statement?</h5>
 <p>Disadvantages of switch statements</p>
 
