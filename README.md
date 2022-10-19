@@ -1,5 +1,13 @@
 # py
 FoR QuIck ReVisiOn
+<h1>XML</h1>
+<h1>Itertools</h1>
+<h1>Magic functions</h1>
+<h1>Error & Exceptions</h1>
+<p>INCORRECT REGEX | HACKERRANK-get about regex here</p>
+<h1>Built-ins</h1>
+<p>about athlete sort   itemgetter</p>
+<h1>Regex & Parsing</h1>
 <h1>Random Numbers</h1>
 <h5>Q.How do you select a random number in a list Python?</h5>
 <p>Using random. randrange() to select random value from a list. random. randrange() method is used to generate a random number in a given range, we can specify the range to be 0 to the length of the list, and get the index, and then the corresponding value.</p>
