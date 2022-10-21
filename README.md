@@ -245,3 +245,4 @@ Well, since the function does not return anything, we get an object of class ‘
  <p><a href="https://pyweek.org/">💡 pyweek - Gaming Competition</a></p>
  <p><a href="https://www.instagram.com/python4coding/">💡 python OPP easy explanation</a></p>
  <p><a href="https://www.dorscodingschool.com/cs50python">💡 DorscodingSchool-CS50python Solution</a>(Do it)</p>
+ <p><a href="https://www.techinterviewhandbook.org/final-questions/">💡 Interview Questions</a>(Do it)</p>
