@@ -248,3 +248,4 @@ Well, since the function does not return anything, we get an object of class ‘
  <p><a href="https://www.techinterviewhandbook.org/final-questions/">💡 Interview Questions</a>(Do it)</p>
  <p><a href="https://www.quora.com/What-s-your-six-month-technical-interview-preparation-plan/answer/Fahim-ul-Haq?ch=3&oid=106278345&share=d202901e&srid=waiFE&target_type=answer">💡 Interview Prepration Roadmap</a></p>
    <p><a href="https://github.com/codebasics/interview-help/blob/main/sde-interview-prep.md">💡 Interview Help</a>~Guide</p>
+ <p><a href="https://docs.python.org/3/library/">💡 Python Documentation Read</a>~Guide</p>
